@@ -42,7 +42,7 @@ se visualiza el movimiento final del robot
 
 
   
-
+ 
 
 
 ## Autores ✒️
