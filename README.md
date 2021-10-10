@@ -16,16 +16,32 @@ muevan rapido aunque la herramienta se mueva lentamente, lo que hace que el ´
 robot trabaje de forma ineficiente
 >>![2223](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/Captura%20de%20pantalla%202021-10-09%20234718.png)
 ## Programa en python en el cual el gripper realiza la letra "j" 📋
--
+### planteamiento de trayectorias
+inicialmente se importan las librerias que requiere python para ejecutar el codigo satisfactoriamente 
+![2223](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/Captura%20de%20pantalla%202021-10-09%20234718.png)
+importar el robot "UR5" de las librerias y visualizarlo
+
+aplicar cinematica inversa de fordward
+
+planteamiento de trayectorias para que el robot haga la letra "j"
+
+imprimimos la cordenadas cartesianas
+
+se pasan las coordenada de milimetros a centimetros y se calcuran nuevamente las coordenadas cartesianas 
+
+se calcula la cinematica inversa, para obtener los valores que debe tomar cada una de las articulaciones
+
+aplicando el metodo "jtraj", se calcula un polinomio de grado 5 para cada articulacion 
+
+se visualiza el movimiento final del robot 
 
 
 
 
-   [Jupyter Notebook]: <Jupiter_Notebook/Proyecto_Google_Play_Store_Apps.ipynb>
-   [Reporte LATEX]: <Reporte/Reporte.tex>
-   [Reporte PDF]: <Reporte/Reporte.pdf>
-   [Póster]: <>
-   [Video]: <>
+
+
+
+  
 
 
 
@@ -33,6 +49,6 @@ robot trabaje de forma ineficiente
 
 _Las siguientes personas colaboraron con el desarrollo del proyecto_
 
-* **Juan Felipe Cañas** - [juancañas](https://github.com/jcscorpion)
-* **Cristian Hernandez** - [Cristianchernandezs](https://github.com/cristianchernandezs)
+* **Juan Felipe Cañas** - [JuanCañas](https://github.com/jcscorpion)
+* **Cristian Hernandez** - [CristianHernandez](https://github.com/cristianchernandezs)
  
