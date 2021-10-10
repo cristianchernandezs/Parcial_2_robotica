@@ -8,7 +8,7 @@ el robot seleccionado fue el "UR5" de la compañia universal robots .Es un robot
 
 
 ## Objetivo 🎯
-![2222](https://github.com/cristianchernandezs/Parcial_2_robotica/commit/41487bd30221a908fd643d89b6c9c06a6ff4d31d#diff-0508ec6105f4dfa0ca7a9af2211b92b898e698759013ce98aa256ca8d5b971df)
+![2223](https://github.com/cristianchernandezs/Parcial_2_robotica/commit/41487bd30221a908fd643d89b6c9c06a6ff4d31d#diff-0508ec6105f4dfa0ca7a9af2211b92b898e698759013ce98aa256ca8d5b971df)
 
 ## Contenido 📋
 
