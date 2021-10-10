@@ -20,16 +20,28 @@ robot trabaje de forma ineficiente.
 
 -Carga útil
 5000 g
+
+
 -Repetibilidad
 0,03 mm
+
+
 -Huella
 149 milímetros
+
+
 -Sala limpia
 Ja
+
+
 -Velocidad conjunta
 180 ° / s
+
+
 -Velocidad lineal
 1 m / s
+
+
 -Peso
 20600 g
 
