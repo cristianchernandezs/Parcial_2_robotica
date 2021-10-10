@@ -1,5 +1,5 @@
 
-![2222](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/images.jpg)
+![2222](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/fondo.png)
 
 # Parcial 2 robotica industrial
 
