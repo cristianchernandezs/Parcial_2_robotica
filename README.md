@@ -31,10 +31,11 @@ robot trabaje de forma ineficiente
 1. aplicar cinematica inversa de fordward
 
   ![2223](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/imagenes%20github/CODIGO3.png)
+  ![2223](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/imagenes%20github/CODIGO4.png)
   
 1. planteamiento de trayectorias para que el robot haga la letra "j".
 
-  ![2223](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/imagenes%20github/CODIGO4.png)
+  
   
 1. imprimimos la cordenadas cartesianas.
 
