@@ -13,7 +13,7 @@ el robot seleccionado fue el "UR5" de la compañia universal robots .Es un robot
 del volumen cil´ındrico debe evitarse en lo posible, porque hace que las juntas se
 muevan rapido aunque la herramienta se mueva lentamente, lo que hace que el ´
 robot trabaje de forma ineficiente
-![2223](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/Captura%20de%20pantalla%202021-10-09%20234718.png)
+>![2223](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/Captura%20de%20pantalla%202021-10-09%20234718.png)
 ## Contenido 📋
 
 Elementos contenidos en este repositorio:
