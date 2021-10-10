@@ -47,7 +47,7 @@ Ja
 -Peso
 20600 g
 
-###limitaciones 
+### limitaciones 
 
 El robot tiene una serie de funciones de seguridad que pueden utilizarse para limitar
 el movimiento de sus juntas y del Punto Central de Herramienta (PCH) del robot.
