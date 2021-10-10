@@ -23,19 +23,19 @@ robot trabaje de forma ineficiente
 1. importar el robot "UR5" de las librerias y visualizarlo.
 
   ![2223](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/imagenes%20github/CODIGO2.png)
-3. aplicar cinematica inversa de fordward
+1. aplicar cinematica inversa de fordward
 ![2223](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/imagenes%20github/CODIGO3.png)
-4. planteamiento de trayectorias para que el robot haga la letra "j"
+1. planteamiento de trayectorias para que el robot haga la letra "j"
 ![2223](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/imagenes%20github/CODIGO4.png)
-5. imprimimos la cordenadas cartesianas
+1. imprimimos la cordenadas cartesianas
 ![2223](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/imagenes%20github/CODIGO5.png)
-6. se pasan las coordenada de milimetros a centimetros y se calcuran nuevamente las coordenadas cartesianas 
+1. se pasan las coordenada de milimetros a centimetros y se calcuran nuevamente las coordenadas cartesianas 
 ![2223](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/imagenes%20github/CODIGO6.png)
-7. se calcula la cinematica inversa, para obtener los valores que debe tomar cada una de las articulaciones
+1. se calcula la cinematica inversa, para obtener los valores que debe tomar cada una de las articulaciones
 ![2223](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/imagenes%20github/CODIGO7.png)
-8. aplicando el metodo "jtraj", se calcula un polinomio de grado 5 para cada articulacion 
+1. aplicando el metodo "jtraj", se calcula un polinomio de grado 5 para cada articulacion 
 ![2223](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/imagenes%20github/CODIGO8.png)
-9. se visualiza el movimiento final del robot 
+1. se visualiza el movimiento final del robot 
 ![2223](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/imagenes%20github/CODIGO9.png)
 
 
