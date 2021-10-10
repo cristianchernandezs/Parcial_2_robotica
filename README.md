@@ -93,6 +93,8 @@ Ja
 9. se visualiza el movimiento final del robot 
   
   ![2223](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/imagenes%20github/CODIGO11.png)
+  
+   ![Alt Text](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/imagenes%20github/UR5.gif)
 
 ### Velocidad y aceleracion de los motores
 
