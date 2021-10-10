@@ -47,15 +47,7 @@ Ja
 
 >>![2223](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/Captura%20de%20pantalla%202021-10-09%20234718.png)
 
-### Velocidad y aceleracion de los motores
 
-con el siguiente codigo se halla las velocidades y las aceleraciones de los motores:
-
-![2223](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/imagenes%20github/aceleracion%20y%20velocidad%20de%20los%20motore.png)
-
-en la grafica se aprecian las maximas velocidades y aceleraciones que pueden alcanzar 
-
-![2223](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/imagenes%20github/graficamotores.png)
 
 ## Programa en python en el cual el gripper realiza la letra "j" 📋
 ### planteamiento de trayectorias
@@ -102,7 +94,15 @@ en la grafica se aprecian las maximas velocidades y aceleraciones que pueden alc
   
   ![2223](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/imagenes%20github/CODIGO11.png)
 
+### Velocidad y aceleracion de los motores
 
+con el siguiente codigo se halla las velocidades y las aceleraciones de los motores:
+
+![2223](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/imagenes%20github/aceleracion%20y%20velocidad%20de%20los%20motore.png)
+
+en la grafica se aprecian las maximas velocidades y aceleraciones que pueden alcanzar 
+
+![2223](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/imagenes%20github/graficamotores.png)
 
 
 
