@@ -1,7 +1,38 @@
 # Parcial_2_robotica
+![2222](https://user-images.githubusercontent.com/80872850/111577753-e9064d00-8780-11eb-929c-83ceecd59559.png)
 
-integrantes:
-Cristian Camilo Hernandez Salazar// 
-Juan Felipe Cañas
+# Parcial 2 robotica industrial
 
-1. (1.0pt )Seleccionar un  robot  de la biblioteca y Realizar una descripción de este robot, incluyendo como mínimo su espacio de trabajo y las velocidades que pueden alcanzar los motores y en general características que sirvan para planear la trayectoria
+## Descripción 📃
+el robot seleccionado fue el "UR5" de la compañia universal robots .Es un robot colaborativo industrial ligero construido para aplicaciones de servicio medio (hasta 5 kg). Los propósitos generales del desarrollo de este robot son la versatilidad y la adaptabilidad.
+
+
+## Objetivo 🎯
+
+
+## Contenido 📋
+
+Elementos contenidos en este repositorio:
+
+- [Jupyter Notebook] - Notebook con el codigo del proyecto.
+- [Reporte LATEX] - Informe en codigo LATEX.
+- [Reporte PDF] - Informe en formato PDF.
+- [Póster] - Póster que presenta los resultados del proyecto.
+- [Video] - Video de presentacion del poster.
+
+
+   [Jupyter Notebook]: <Jupiter_Notebook/Proyecto_Google_Play_Store_Apps.ipynb>
+   [Reporte LATEX]: <Reporte/Reporte.tex>
+   [Reporte PDF]: <Reporte/Reporte.pdf>
+   [Póster]: <>
+   [Video]: <>
+
+
+
+## Autores ✒️
+
+_Las siguientes personas colaboraron con el desarrollo del proyecto_
+
+* **Juan Felipe Cañas** - 
+* **Cristian Hernandez** - [Cristianchernandezs](https://github.com/cristianchernandezs)
+ 
