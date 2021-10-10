@@ -10,10 +10,29 @@ el robot seleccionado fue el "UR5" de la compañia universal robots .Es un robot
 
 ## work space 🎯
 ![2223](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/espacio.png)
->El espacio de trabajo del robot UR5 ocupa 850 mm desde la junta de la base.Mover la herramienta cerca
+
+El espacio de trabajo del robot UR5 ocupa 850 mm desde la junta de la base.Mover la herramienta cerca
 del volumen cil´ındrico debe evitarse en lo posible, porque hace que las juntas se
 muevan rapido aunque la herramienta se mueva lentamente, lo que hace que el ´
-robot trabaje de forma ineficiente
+robot trabaje de forma ineficiente.
+
+### especificaciones tecnicas
+
+-Carga útil
+5000 g
+-Repetibilidad
+0,03 mm
+-Huella
+149 milímetros
+-Sala limpia
+Ja
+-Velocidad conjunta
+180 ° / s
+-Velocidad lineal
+1 m / s
+-Peso
+20600 g
+
 >>![2223](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/Captura%20de%20pantalla%202021-10-09%20234718.png)
 
 ### Velocidad y aceleracion de los motores
