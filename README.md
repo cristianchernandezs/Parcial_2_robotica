@@ -28,6 +28,8 @@ robot trabaje de forma ineficiente
 
   ![2223](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/imagenes%20github/CODIGO2.png)
   
+  ![2223](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/imagenes%20github/robot1.png)
+  
 1. aplicar cinematica inversa de fordward
 
   ![2223](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/imagenes%20github/CODIGO3.png)
