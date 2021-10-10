@@ -15,15 +15,10 @@ del volumen cil´ındrico debe evitarse en lo posible, porque hace que las junta
 muevan rapido aunque la herramienta se mueva lentamente, lo que hace que el ´
 robot trabaje de forma ineficiente
 >>![2223](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/Captura%20de%20pantalla%202021-10-09%20234718.png)
-## Contenido 📋
+## Programa en python en el cual el gripper realiza la letra "j" 📋
+-
 
-Elementos contenidos en este repositorio:
 
-- [Jupyter Notebook] - Notebook con el codigo del proyecto.
-- [Reporte LATEX] - Informe en codigo LATEX.
-- [Reporte PDF] - Informe en formato PDF.
-- [Póster] - Póster que presenta los resultados del proyecto.
-- [Video] - Video de presentacion del poster.
 
 
    [Jupyter Notebook]: <Jupiter_Notebook/Proyecto_Google_Play_Store_Apps.ipynb>
