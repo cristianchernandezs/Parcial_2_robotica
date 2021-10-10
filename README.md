@@ -9,7 +9,7 @@ el robot seleccionado fue el "UR5" de la compañia universal robots .Es un robot
 
 ## work space 🎯
 ![2223](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/espacio.png)
-//El espacio de trabajo del robot UR5 ocupa 850 mm desde la junta de la base.
+>El espacio de trabajo del robot UR5 ocupa 850 mm desde la junta de la base.
 
 ## Contenido 📋
 
