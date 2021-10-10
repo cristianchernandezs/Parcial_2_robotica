@@ -35,11 +35,11 @@ robot trabaje de forma ineficiente
   
 1. planteamiento de trayectorias para que el robot haga la letra "j".
 
-  
+  ![2223](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/imagenes%20github/CODIGO5.png)
   
 1. imprimimos la cordenadas cartesianas.
 
-  ![2223](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/imagenes%20github/CODIGO5.png)
+  
   
 1. se pasan las coordenada de milimetros a centimetros y se calcuran nuevamente las coordenadas cartesianas.
 
