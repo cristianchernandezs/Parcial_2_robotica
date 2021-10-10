@@ -7,8 +7,9 @@
 el robot seleccionado fue el "UR5" de la compañia universal robots .Es un robot colaborativo industrial ligero construido para aplicaciones de servicio medio (hasta 5 kg). Los propósitos generales del desarrollo de este robot son la versatilidad y la adaptabilidad.
 
 
-## Objetivo 🎯
+## work space 🎯
 ![2223](https://github.com/cristianchernandezs/Parcial_2_robotica/commit/41487bd30221a908fd643d89b6c9c06a6ff4d31d#diff-0508ec6105f4dfa0ca7a9af2211b92b898e698759013ce98aa256ca8d5b971df)
+El espacio de trabajo del robot UR5 ocupa 850 mm desde la junta de la base.
 
 ## Contenido 📋
 
