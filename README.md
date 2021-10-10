@@ -16,6 +16,8 @@ del volumen cil´ındrico debe evitarse en lo posible, porque hace que las junta
 muevan rapido aunque la herramienta se mueva lentamente, lo que hace que el ´
 robot trabaje de forma ineficiente.
 
+![2223](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/imagenes%20github/Captura%20de%20pantalla%202021-10-09%20234718.png)
+
 ### especificaciones tecnicas
 
 -Carga útil
@@ -45,7 +47,7 @@ Ja
 -Peso
 20600 g
 
->>![2223](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/Captura%20de%20pantalla%202021-10-09%20234718.png)
+
 
 
 
