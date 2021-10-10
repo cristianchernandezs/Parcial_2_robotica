@@ -17,10 +17,12 @@ robot trabaje de forma ineficiente
 >>![2223](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/Captura%20de%20pantalla%202021-10-09%20234718.png)
 ## Programa en python en el cual el gripper realiza la letra "j" 📋
 ### planteamiento de trayectorias
-1. inicialmente se importan las librerias que requiere python para ejecutar el codigo satisfactoriamente 
-![2223](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/imagenes%20github/CODIGO1.png)
+1. inicialmente se importan las librerias que requiere python para ejecutar el codigo satisfactoriamente
+ 
+  ![2223](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/imagenes%20github/CODIGO1.png)
 2. importar el robot "UR5" de las librerias y visualizarlo
-![2223](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/imagenes%20github/CODIGO2.png)
+
+  ![2223](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/imagenes%20github/CODIGO2.png)
 3. aplicar cinematica inversa de fordward
 ![2223](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/imagenes%20github/CODIGO3.png)
 4. planteamiento de trayectorias para que el robot haga la letra "j"
