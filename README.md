@@ -1,6 +1,6 @@
 
 # ROBOT UR5
-![2222](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/fondo.png)
+![2222](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/imagenes%20github/fondo.png)
 
 # Parcial 2 robotica industrial
 
@@ -9,14 +9,12 @@ el robot seleccionado fue el "UR5" de la compañia universal robots .Es un robot
 
 
 ## work space 🎯
-![2223](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/espacio.png)
+![2223](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/imagenes%20github/espacio.png)
 
 El espacio de trabajo del robot UR5 ocupa 850 mm desde la junta de la base.Mover la herramienta cerca
 del volumen cil´ındrico debe evitarse en lo posible, porque hace que las juntas se
 muevan rapido aunque la herramienta se mueva lentamente, lo que hace que el ´
 robot trabaje de forma ineficiente.
-
->>![2223](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/imagenes%20github/Captura%20de%20pantalla%202021-10-09%20234718.png)
 
 ### especificaciones tecnicas
 
@@ -35,7 +33,7 @@ Ja
 -Peso
 20600 g
 
->>![2223](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/imagenes%20github/Captura%20de%20pantalla%202021-10-09%20234718.png)
+>>![2223](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/Captura%20de%20pantalla%202021-10-09%20234718.png)
 
 ### Velocidad y aceleracion de los motores
 
