@@ -47,9 +47,13 @@ Ja
 -Peso
 20600 g
 
+###limitaciones 
 
+![2223]https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/imagenes%20github/tabla%20primero.png)
 
+![2223](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/imagenes%20github/Captura%20de%20pantalla%202021-10-10%20030447.png)
 
+![2223](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/imagenes%20github/tabla%20lim.png)
 
 ## Programa en python en el cual el gripper realiza la letra "j" 📋
 ### planteamiento de trayectorias
