@@ -1,5 +1,5 @@
 
-![2222](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/ur5e.mp4)
+![2222](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/images.jpg)
 
 # Parcial 2 robotica industrial
 
