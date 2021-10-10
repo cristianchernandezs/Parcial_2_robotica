@@ -49,9 +49,22 @@ Ja
 
 ###limitaciones 
 
-![2223]https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/imagenes%20github/tabla%20primero.png)
+El robot tiene una serie de funciones de seguridad que pueden utilizarse para limitar
+el movimiento de sus juntas y del Punto Central de Herramienta (PCH) del robot.
+
+![2223](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/imagenes%20github/tabla%20primero.png)
+
+En determinadas zonas del espacio de trabajo debe prestarse atenci´on a los peligros de enganche,
+debido a las propiedades f´ısicas del brazo rob´ otico. Se define una zona para movimientos radiales
+cuando la junta de la mu˜neca 1 est´a a una distancia de al menos 750mm de la base del robot. La otra
+zona est´a a 200mm de la base del robot, cuando el movimiento se produce en direcci ´on tangencial.
 
 ![2223](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/imagenes%20github/Captura%20de%20pantalla%202021-10-10%20030447.png)
+
+El sistema se considera sin energ´ıa cuando la tensi ´on de bus de 48V llega a un potencial
+el´ectrico inferior a 7,3V. El tiempo de eliminaci´on de energ´ıa es el tiempo
+que transcurre desde la detecci´on de un evento hasta que el sistema se queda sin
+energ´ıa.
 
 ![2223](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/imagenes%20github/tabla%20lim.png)
 
