@@ -33,6 +33,6 @@ robot trabaje de forma ineficiente
 
 _Las siguientes personas colaboraron con el desarrollo del proyecto_
 
-* **Juan Felipe Cañas** - 
+* **Juan Felipe Cañas** - [Cristianchernandezs](https://github.com/cristianchernandezs)
 * **Cristian Hernandez** - [Cristianchernandezs](https://github.com/cristianchernandezs)
  
