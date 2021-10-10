@@ -43,23 +43,23 @@ robot trabaje de forma ineficiente
   
 1. imprimimos la cordenadas cartesianas.
 
-  ![2223](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/imagenes%20github/CODIGO6.png)
+  ![2223](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/imagenes%20github/CODIGO7.png)
 
 1. se pasan las coordenada de milimetros a centimetros y se calcuran nuevamente las coordenadas cartesianas.
 
-  ![2223](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/imagenes%20github/CODIGO6.png)
+  ![2223](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/imagenes%20github/CODIGO8.png)
   
 1. se calcula la cinematica inversa, para obtener los valores que debe tomar cada una de las articulaciones.
  
-  ![2223](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/imagenes%20github/CODIGO7.png)
+  ![2223](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/imagenes%20github/CODIGO9.png)
   
 1. aplicando el metodo "jtraj", se calcula un polinomio de grado 5 para cada articulacion.
 
-  ![2223](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/imagenes%20github/CODIGO8.png)
+  ![2223](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/imagenes%20github/CODIGO10.png)
   
 1. se visualiza el movimiento final del robot 
   
-  ![2223](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/imagenes%20github/CODIGO9.png)
+  ![2223](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/imagenes%20github/CODIGO11.png)
 
 
 
