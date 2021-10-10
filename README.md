@@ -16,7 +16,7 @@ muevan rapido aunque la herramienta se mueva lentamente, lo que hace que el ´
 robot trabaje de forma ineficiente
 >>![2223](https://github.com/cristianchernandezs/Parcial_2_robotica/blob/main/Captura%20de%20pantalla%202021-10-09%20234718.png)
 
-###Velocidad y aceleracion de los motores
+### Velocidad y aceleracion de los motores
 
 ## Programa en python en el cual el gripper realiza la letra "j" 📋
 ### planteamiento de trayectorias
