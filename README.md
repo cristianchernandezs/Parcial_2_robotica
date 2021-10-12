@@ -138,4 +138,5 @@ _Las siguientes personas colaboraron con el desarrollo del proyecto_
 
 * **Juan Felipe Cañas Bustos** - [JuanCañas](https://github.com/jcscorpion)
 * **Cristian Hernandez Salazar** - [CristianHernandez](https://github.com/cristianchernandezs)
+* **Julian Cabrera** 
  
